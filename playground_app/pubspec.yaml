@@ -18,14 +18,14 @@ dependencies:
   intl: any
   cupertino_icons: ^1.0.8
   hrk_batteries: ^2.2.0
-  hrk_flutter_batteries: '>=0.1.0-pre.4 <1.0.0'
+  hrk_flutter_batteries: ^0.4.0
   hrk_logging: '>=0.2.0 <1.0.0'
   hrk_nasa_apis: ^1.2.0
   hrk_nasa_apis_test: ^1.0.0
   go_router: ^14.2.7
   json_annotation: ^4.9.0
-  flutter_bloc: ^8.1.6
-  hydrated_bloc: ^9.1.5
+  flutter_bloc: ^9.0.0
+  hydrated_bloc: ^10.0.0
   path_provider: ^2.1.4
   freezed_annotation: ^2.4.4
   material_color_utilities: '>=0.11.1 <1.0.0'
@@ -36,7 +36,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  hrk_analysis: ^1.0.0
+  hrk_analysis: ^2.0.0
   hrk_flutter_test_batteries: ^1.1.0
   checks: '>=0.3.0 <1.0.0'
   mockito: ^5.4.4
