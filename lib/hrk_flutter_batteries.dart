@@ -1,4 +1,4 @@
-library hrk_flutter_batteries;
+library;
 
 export 'src/constants/constants.dart';
 export 'src/deferred_loading/deferred_loading.dart';

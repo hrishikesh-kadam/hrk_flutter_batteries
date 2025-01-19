@@ -1,3 +1,7 @@
+## 0.5.0
+
+- Bump hrk_analysis to ^2.0.0
+
 ## 0.4.0
 
 - Add `ChoiceChipInputWidget`, `StateMethod`
